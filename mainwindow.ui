@@ -29,7 +29,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Компоненты для закупок v.2.0.0.0 от 26.10.2017</string>
+   <string>Компоненты для закупок v.2.0.0.1 от 27.10.2017</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QGridLayout" name="gridLayout_2">

@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created by: Qt User Interface Compiler version 5.9.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -205,7 +205,7 @@ public:
 
     void retranslateUi(QMainWindow *MainWindow)
     {
-        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "\320\232\320\276\320\274\320\277\320\276\320\275\320\265\320\275\321\202\321\213 \320\264\320\273\321\217 \320\267\320\260\320\272\321\203\320\277\320\276\320\272 v.2.0.0.0 \320\276\321\202 26.10.2017", Q_NULLPTR));
+        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "\320\232\320\276\320\274\320\277\320\276\320\275\320\265\320\275\321\202\321\213 \320\264\320\273\321\217 \320\267\320\260\320\272\321\203\320\277\320\276\320\272 v.2.0.0.1 \320\276\321\202 27.10.2017", Q_NULLPTR));
         actionv1_0->setText(QApplication::translate("MainWindow", "v2.0.0.0", Q_NULLPTR));
         action->setText(QApplication::translate("MainWindow", "\320\236\320\277\320\270\321\201\320\260\320\275\320\270\320\265", Q_NULLPTR));
         pushButton->setText(QApplication::translate("MainWindow", "\320\222\321\213\320\261\321\200\320\260\321\202\321\214 BOM \321\204\320\260\320\271\320\273\321\213", Q_NULLPTR));

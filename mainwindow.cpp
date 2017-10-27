@@ -75,6 +75,7 @@ void MainWindow::clear(){
   fileName_DATAs.clear();
   fileName_DATA.clear();
   ui->progressBar->setValue(0);
+  QCoreApplication::processEvents();
 }
 //------------------------------------------------------------------------
 void MainWindow::generate(){
