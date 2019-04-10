@@ -9,6 +9,8 @@
 #include "qdatetime.h"
 #include "qinputdialog.h"
 
+#include "math.h"
+
 
 MainWindow::MainWindow(QWidget *parent) :
   QMainWindow(parent),
